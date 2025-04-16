@@ -5,5 +5,5 @@ Please cite: Desorption electrospray ionization–mass spectrometry imaging of m
 2. Perfrom statistical analysis on pixels from ROI:
    Wilcox t-test (R code adapted from McCall lab, https://github.com/zyliu-OU/McCall-Lab/tree/main/03172021)
    Random Forest (R code, adapted from McCall lab) and
-   Dunnett's t-test with boxplot (python code adapted from https://github.com/zyliu-OU/McCall-Lab/tree/main/03172021)
+   Boxplot using the p-val from Wilcox t-test.
    
