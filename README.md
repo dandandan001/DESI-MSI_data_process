@@ -1,5 +1,5 @@
 This project describes 
-1. how to generate better quality ion images from mass spectrometry imaging (MSI) dataset: whole region plot and regions of interests (ROI) plot. (Python code)
+1. how to generate better quality ion images from mass spectrometry imaging (MSI) dataset: whole region plot and regions of interests (ROI) plot. (Python code, ChatGPT was used for debugging)
 Please cite: Desorption electrospray ionization–mass spectrometry imaging of metabolites and lipids in heart samples infected with Trypanosoma cruzi, Dan Chen, Guilherme MP Carrara, Laura-Isobel McCall# and Zhibo Yang#
 
 2. Perfrom statistical analysis on pixels from ROI:
